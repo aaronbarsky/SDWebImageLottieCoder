@@ -10,30 +10,16 @@
 		3249BCC724150E0800E29E73 /* SDWebImageLottieCoder.h in Headers */ = {isa = PBXBuildFile; fileRef = 3249BCC524150E0800E29E73 /* SDWebImageLottieCoder.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3249BCD2241512F900E29E73 /* SDImageLottieCoder.h in Headers */ = {isa = PBXBuildFile; fileRef = 3249BCCF241512F900E29E73 /* SDImageLottieCoder.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3249BCD3241512F900E29E73 /* SDImageLottieCoder.m in Sources */ = {isa = PBXBuildFile; fileRef = 3249BCD0241512F900E29E73 /* SDImageLottieCoder.m */; };
-		3249BCFB2415137700E29E73 /* SDImageLottieCoder.h in Headers */ = {isa = PBXBuildFile; fileRef = 3249BCCF241512F900E29E73 /* SDImageLottieCoder.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3249BCFC2415137700E29E73 /* SDWebImageLottieCoder.h in Headers */ = {isa = PBXBuildFile; fileRef = 3249BCC524150E0800E29E73 /* SDWebImageLottieCoder.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3249BCFD2415137700E29E73 /* SDImageLottieCoder.h in Headers */ = {isa = PBXBuildFile; fileRef = 3249BCCF241512F900E29E73 /* SDImageLottieCoder.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3249BCFE2415137700E29E73 /* SDWebImageLottieCoder.h in Headers */ = {isa = PBXBuildFile; fileRef = 3249BCC524150E0800E29E73 /* SDWebImageLottieCoder.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3249BCFF2415137800E29E73 /* SDImageLottieCoder.h in Headers */ = {isa = PBXBuildFile; fileRef = 3249BCCF241512F900E29E73 /* SDImageLottieCoder.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		3249BD002415137800E29E73 /* SDWebImageLottieCoder.h in Headers */ = {isa = PBXBuildFile; fileRef = 3249BCC524150E0800E29E73 /* SDWebImageLottieCoder.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		3249BD012415138400E29E73 /* SDImageLottieCoder.m in Sources */ = {isa = PBXBuildFile; fileRef = 3249BCD0241512F900E29E73 /* SDImageLottieCoder.m */; };
-		3249BD022415138400E29E73 /* SDImageLottieCoder.m in Sources */ = {isa = PBXBuildFile; fileRef = 3249BCD0241512F900E29E73 /* SDImageLottieCoder.m */; };
 		3249BD032415138400E29E73 /* SDImageLottieCoder.m in Sources */ = {isa = PBXBuildFile; fileRef = 3249BCD0241512F900E29E73 /* SDImageLottieCoder.m */; };
 		3249BD0D24152F1500E29E73 /* SDWebImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3249BD0B24152F1400E29E73 /* SDWebImage.framework */; };
 		3249BD0F24152F1500E29E73 /* librlottie.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3249BD0C24152F1400E29E73 /* librlottie.framework */; };
-		3249BD1424152F3000E29E73 /* librlottie.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3249BD1224152F3000E29E73 /* librlottie.framework */; };
-		3249BD1624152F3000E29E73 /* SDWebImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3249BD1324152F3000E29E73 /* SDWebImage.framework */; };
-		3249BD1B24152F4900E29E73 /* librlottie.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3249BD1924152F4900E29E73 /* librlottie.framework */; };
-		3249BD1D24152F4900E29E73 /* SDWebImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3249BD1A24152F4900E29E73 /* SDWebImage.framework */; };
 		3249BD2224152F5700E29E73 /* SDWebImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3249BD2024152F5700E29E73 /* SDWebImage.framework */; };
 		3249BD2424152F5700E29E73 /* librlottie.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3249BD2124152F5700E29E73 /* librlottie.framework */; };
 		32A86513241663750023BED3 /* SDWebImageLottieLoaderDefine.m in Sources */ = {isa = PBXBuildFile; fileRef = 32A86511241663750023BED3 /* SDWebImageLottieLoaderDefine.m */; };
-		32A86514241663750023BED3 /* SDWebImageLottieLoaderDefine.m in Sources */ = {isa = PBXBuildFile; fileRef = 32A86511241663750023BED3 /* SDWebImageLottieLoaderDefine.m */; };
-		32A86515241663750023BED3 /* SDWebImageLottieLoaderDefine.m in Sources */ = {isa = PBXBuildFile; fileRef = 32A86511241663750023BED3 /* SDWebImageLottieLoaderDefine.m */; };
 		32A86516241663750023BED3 /* SDWebImageLottieLoaderDefine.m in Sources */ = {isa = PBXBuildFile; fileRef = 32A86511241663750023BED3 /* SDWebImageLottieLoaderDefine.m */; };
 		32A86517241663750023BED3 /* SDWebImageLottieLoaderDefine.h in Headers */ = {isa = PBXBuildFile; fileRef = 32A86512241663750023BED3 /* SDWebImageLottieLoaderDefine.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		32A86518241663750023BED3 /* SDWebImageLottieLoaderDefine.h in Headers */ = {isa = PBXBuildFile; fileRef = 32A86512241663750023BED3 /* SDWebImageLottieLoaderDefine.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		32A86519241663750023BED3 /* SDWebImageLottieLoaderDefine.h in Headers */ = {isa = PBXBuildFile; fileRef = 32A86512241663750023BED3 /* SDWebImageLottieLoaderDefine.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		32A8651A241663750023BED3 /* SDWebImageLottieLoaderDefine.h in Headers */ = {isa = PBXBuildFile; fileRef = 32A86512241663750023BED3 /* SDWebImageLottieLoaderDefine.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
@@ -43,8 +29,6 @@
 		3249BCC624150E0800E29E73 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = Info.plist; path = Module/Info.plist; sourceTree = "<group>"; };
 		3249BCCF241512F900E29E73 /* SDImageLottieCoder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SDImageLottieCoder.h; sourceTree = "<group>"; };
 		3249BCD0241512F900E29E73 /* SDImageLottieCoder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SDImageLottieCoder.m; sourceTree = "<group>"; };
-		3249BCD92415134200E29E73 /* SDWebImageLottieCoder.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SDWebImageLottieCoder.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		3249BCE62415134900E29E73 /* SDWebImageLottieCoder.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SDWebImageLottieCoder.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3249BCF32415135000E29E73 /* SDWebImageLottieCoder.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SDWebImageLottieCoder.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3249BD0B24152F1400E29E73 /* SDWebImage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SDWebImage.framework; path = Carthage/Build/iOS/SDWebImage.framework; sourceTree = "<group>"; };
 		3249BD0C24152F1400E29E73 /* librlottie.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = librlottie.framework; path = Carthage/Build/iOS/librlottie.framework; sourceTree = "<group>"; };
@@ -65,24 +49,6 @@
 			files = (
 				3249BD0F24152F1500E29E73 /* librlottie.framework in Frameworks */,
 				3249BD0D24152F1500E29E73 /* SDWebImage.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		3249BCD62415134200E29E73 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				3249BD1624152F3000E29E73 /* SDWebImage.framework in Frameworks */,
-				3249BD1424152F3000E29E73 /* librlottie.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		3249BCE32415134900E29E73 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				3249BD1D24152F4900E29E73 /* SDWebImage.framework in Frameworks */,
-				3249BD1B24152F4900E29E73 /* librlottie.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -111,8 +77,6 @@
 			isa = PBXGroup;
 			children = (
 				3249BCC224150E0800E29E73 /* SDWebImageLottieCoder.framework */,
-				3249BCD92415134200E29E73 /* SDWebImageLottieCoder.framework */,
-				3249BCE62415134900E29E73 /* SDWebImageLottieCoder.framework */,
 				3249BCF32415135000E29E73 /* SDWebImageLottieCoder.framework */,
 			);
 			name = Products;
@@ -167,26 +131,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3249BCD42415134200E29E73 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				3249BCFB2415137700E29E73 /* SDImageLottieCoder.h in Headers */,
-				3249BCFC2415137700E29E73 /* SDWebImageLottieCoder.h in Headers */,
-				32A86518241663750023BED3 /* SDWebImageLottieLoaderDefine.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		3249BCE12415134900E29E73 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				3249BCFD2415137700E29E73 /* SDImageLottieCoder.h in Headers */,
-				3249BCFE2415137700E29E73 /* SDWebImageLottieCoder.h in Headers */,
-				32A86519241663750023BED3 /* SDWebImageLottieLoaderDefine.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		3249BCEE2415135000E29E73 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -216,42 +160,6 @@
 			name = SDWebImageLottieCoder;
 			productName = SDWebImageLottieCoder;
 			productReference = 3249BCC224150E0800E29E73 /* SDWebImageLottieCoder.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		3249BCD82415134200E29E73 /* SDWebImageLottieCoder macOS */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 3249BCDE2415134200E29E73 /* Build configuration list for PBXNativeTarget "SDWebImageLottieCoder macOS" */;
-			buildPhases = (
-				3249BCD42415134200E29E73 /* Headers */,
-				3249BCD52415134200E29E73 /* Sources */,
-				3249BCD62415134200E29E73 /* Frameworks */,
-				3249BCD72415134200E29E73 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "SDWebImageLottieCoder macOS";
-			productName = "SDWebImageLottieCoder macOS";
-			productReference = 3249BCD92415134200E29E73 /* SDWebImageLottieCoder.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		3249BCE52415134900E29E73 /* SDWebImageLottieCoder tvOS */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 3249BCEB2415134900E29E73 /* Build configuration list for PBXNativeTarget "SDWebImageLottieCoder tvOS" */;
-			buildPhases = (
-				3249BCE12415134900E29E73 /* Headers */,
-				3249BCE22415134900E29E73 /* Sources */,
-				3249BCE32415134900E29E73 /* Frameworks */,
-				3249BCE42415134900E29E73 /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-			);
-			name = "SDWebImageLottieCoder tvOS";
-			productName = "SDWebImageLottieCoder tvOS";
-			productReference = 3249BCE62415134900E29E73 /* SDWebImageLottieCoder.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		3249BCF22415135000E29E73 /* SDWebImageLottieCoder watchOS */ = {
@@ -284,12 +192,6 @@
 					3249BCC124150E0800E29E73 = {
 						CreatedOnToolsVersion = 11.3.1;
 					};
-					3249BCD82415134200E29E73 = {
-						CreatedOnToolsVersion = 11.3.1;
-					};
-					3249BCE52415134900E29E73 = {
-						CreatedOnToolsVersion = 11.3.1;
-					};
 					3249BCF22415135000E29E73 = {
 						CreatedOnToolsVersion = 11.3.1;
 					};
@@ -309,8 +211,6 @@
 			projectRoot = "";
 			targets = (
 				3249BCC124150E0800E29E73 /* SDWebImageLottieCoder */,
-				3249BCD82415134200E29E73 /* SDWebImageLottieCoder macOS */,
-				3249BCE52415134900E29E73 /* SDWebImageLottieCoder tvOS */,
 				3249BCF22415135000E29E73 /* SDWebImageLottieCoder watchOS */,
 			);
 		};
@@ -318,20 +218,6 @@
 
 /* Begin PBXResourcesBuildPhase section */
 		3249BCC024150E0800E29E73 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		3249BCD72415134200E29E73 /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		3249BCE42415134900E29E73 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -354,24 +240,6 @@
 			files = (
 				32A86513241663750023BED3 /* SDWebImageLottieLoaderDefine.m in Sources */,
 				3249BCD3241512F900E29E73 /* SDImageLottieCoder.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		3249BCD52415134200E29E73 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				32A86514241663750023BED3 /* SDWebImageLottieLoaderDefine.m in Sources */,
-				3249BD012415138400E29E73 /* SDImageLottieCoder.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		3249BCE22415134900E29E73 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				32A86515241663750023BED3 /* SDWebImageLottieLoaderDefine.m in Sources */,
-				3249BD022415138400E29E73 /* SDImageLottieCoder.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -444,7 +312,6 @@
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
-				TVOS_DEPLOYMENT_TARGET = 17.6;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 				WATCHOS_DEPLOYMENT_TARGET = 2.0;
@@ -501,7 +368,6 @@
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
-				TVOS_DEPLOYMENT_TARGET = 17.6;
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -558,114 +424,6 @@
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
 				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Release;
-		};
-		3249BCDF2415134200E29E73 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				COMBINE_HIDPI_IMAGES = YES;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/Mac",
-				);
-				INFOPLIST_FILE = "$(SRCROOT)/SDWebImageLottieCoder/Module/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/../Frameworks",
-					"@loader_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.SDWebImageLottieCoder-macOS";
-				PRODUCT_NAME = SDWebImageLottieCoder;
-				SDKROOT = macosx;
-				SKIP_INSTALL = YES;
-			};
-			name = Debug;
-		};
-		3249BCE02415134200E29E73 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				COMBINE_HIDPI_IMAGES = YES;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/Mac",
-				);
-				INFOPLIST_FILE = "$(SRCROOT)/SDWebImageLottieCoder/Module/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/../Frameworks",
-					"@loader_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.SDWebImageLottieCoder-macOS";
-				PRODUCT_NAME = SDWebImageLottieCoder;
-				SDKROOT = macosx;
-				SKIP_INSTALL = YES;
-			};
-			name = Release;
-		};
-		3249BCEC2415134900E29E73 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/tvOS",
-				);
-				INFOPLIST_FILE = "$(SRCROOT)/SDWebImageLottieCoder/Module/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.SDWebImageLottieCoder-tvOS";
-				PRODUCT_NAME = SDWebImageLottieCoder;
-				SDKROOT = appletvos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = 3;
-			};
-			name = Debug;
-		};
-		3249BCED2415134900E29E73 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"$(PROJECT_DIR)/Carthage/Build/tvOS",
-				);
-				INFOPLIST_FILE = "$(SRCROOT)/SDWebImageLottieCoder/Module/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				LD_RUNPATH_SEARCH_PATHS = (
-					"$(inherited)",
-					"@executable_path/Frameworks",
-					"@loader_path/Frameworks",
-				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.SDWebImageLottieCoder-tvOS";
-				PRODUCT_NAME = SDWebImageLottieCoder;
-				SDKROOT = appletvos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = 3;
 			};
 			name = Release;
 		};
@@ -742,24 +500,6 @@
 			buildConfigurations = (
 				3249BCCB24150E0800E29E73 /* Debug */,
 				3249BCCC24150E0800E29E73 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		3249BCDE2415134200E29E73 /* Build configuration list for PBXNativeTarget "SDWebImageLottieCoder macOS" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				3249BCDF2415134200E29E73 /* Debug */,
-				3249BCE02415134200E29E73 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		3249BCEB2415134900E29E73 /* Build configuration list for PBXNativeTarget "SDWebImageLottieCoder tvOS" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				3249BCEC2415134900E29E73 /* Debug */,
-				3249BCED2415134900E29E73 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
